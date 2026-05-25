@@ -11,3 +11,6 @@ DOMAIN : FULL STACK WEB DEVELOPMENT
 DURATION : 4WEEKS
 
 MENTOR : VISHALI
+
+OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5980b515-39dc-49fe-ab44-4680334f6aba" />
