@@ -1,0 +1,43 @@
+body{
+  font-family:Arial;
+  background:#f4f4f4;
+  padding:20px;
+}
+
+h1{
+  text-align:center;
+}
+
+.cards{
+  display:flex;
+  gap:20px;
+  justify-content:center;
+  margin:20px 0;
+}
+
+.card{
+  padding:20px;
+  border-radius:10px;
+  width:220px;
+  text-align:center;
+  color:white;
+}
+
+.productive{
+  background:#4CAF50;
+}
+
+.unproductive{
+  background:#f44336;
+}
+
+#websiteList{
+  margin-top:30px;
+}
+
+.site{
+  background:white;
+  padding:10px;
+  margin:10px 0;
+  border-radius:8px;
+}
